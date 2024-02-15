@@ -36,6 +36,7 @@ func main() {
 
 	fmt.Println(slice2)
 	fmt.Println(months)
+	fmt.Println(cap(months))
 
 	newSlice := make([]string, 2, 5)
 
