@@ -35,7 +35,6 @@ func main() {
 	fmt.Println(tono)
 
 	// method
-
 	tono.sayHello("al")
 
 }
